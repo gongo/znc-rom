@@ -5,7 +5,7 @@ ZNC ROM is ZNC module that can be set to read-only to the specified channel.
 ## Requires
 
 - znc 1.0 or later with development packages.
-    - from (Source Code)[http://wiki.znc.in/ZNC].
+    - from [Source Code](http://wiki.znc.in/ZNC).
     - from package manager
         - eg. Ubuntu, Debian, etc..
 
